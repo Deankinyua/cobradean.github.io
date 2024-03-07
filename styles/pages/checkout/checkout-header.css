@@ -35,6 +35,16 @@
   display: none;
 }
 
+.aboutDev {
+  text-decoration: none;
+  font-size: 1rem;
+  transition: 0.7s;
+}
+
+.aboutDev:hover {
+  color: #9f496e;
+}
+
 /* @media is used to create responsive design (making the
    website look good on any screen size). This @media
    means when the screen width is 575px or less, different
