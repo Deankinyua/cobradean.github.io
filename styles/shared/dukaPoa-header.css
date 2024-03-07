@@ -1,5 +1,5 @@
 .dukaPoa-header {
-  background-color: rgb(28, 170, 196);
+  background-color: rgb(103, 169, 180);
   color: rgb(182, 128, 128);
   padding-left: 15px;
   padding-right: 15px;
@@ -104,7 +104,7 @@
 }
 
 .orders-link {
-  color: rgb(211, 55, 55);
+  color: rgb(245, 245, 245);
 }
 
 .returns-text {
@@ -136,7 +136,7 @@
 }
 
 .cart-quantity {
-  color: rgb(235, 137, 10);
+  color: rgb(228, 52, 8);
   font-size: 16px;
   font-weight: 700;
 
